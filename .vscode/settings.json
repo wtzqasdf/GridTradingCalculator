@@ -1,0 +1,41 @@
+{
+    "git.ignoreLimitWarning": true,
+    "explorer.autoReveal": false,
+    "editor.minimap.enabled": false,
+    "files.exclude": {
+        ".htaccess": true,
+        "vue/node_modules": true,
+        "application/cache": true,
+        "application/hooks": true,
+        "application/logs": true,
+        "application/third_party": true,
+        "application/.htaccess": true,
+    },
+    "intelephense.diagnostics.undefinedConstants": false,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.showOutputWindow": false,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".css",
+            "savePath": "/style/"
+        }
+    ],
+    "vetur.format.defaultFormatterOptions": {
+        "js-beautify-html": {
+            "wrap_attributes": "force-expand-multiline"
+        },
+        "prettyhtml": {
+            "printWidth": 500,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        },
+        "prettier": {
+            "singleQuote": true
+        }
+    },
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    "vetur.format.defaultFormatter.js": "prettier",
+    "vetur.format.options.tabSize": 4
+}
