@@ -15,3 +15,9 @@
 4. 網格數：在下限與上限的區間內要放多少限價單
 5. 手續費：買或賣的交易費用其一(通常兩者交易費用應該會是一樣的)
 >例如：買入手續費0.05%、賣出手續費0.05%，請填入0.0005即可，程式會自動計算買入賣出的手續費
+
+## 備註
+如果本程式對你很實用的話，可以多支持一下
+1. USDT - TRC20 (Exchange) => TEa3v8bBz8kRW6arq4LjrEpfywMKpyUPP8
+2. USDT - BEP20 (Exchange) => 0x293a3c7aeadb14b93b73d7ffd40343b0081cd16a
+3. BUSD - BEP20 (Exchange) => 0x293a3c7aeadb14b93b73d7ffd40343b0081cd16a
